@@ -1,4 +1,4 @@
-0x11. C - printf team project by Okang Etta and Eseigbe Temple
+0x11. C - printf team project
 
 
 Group Project:
